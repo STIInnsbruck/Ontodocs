@@ -11,6 +11,10 @@ More info in the README file.
 
 """
 
+## this part is only important for using ontospy module without installing via pip
+import sys
+sys.path.insert(0, "/home/umut/pythonprojects/Ontodocs/ontodocs/")
+
 import time
 import click
 # http://click.pocoo.org/5/arguments/

@@ -104,3 +104,4 @@ ENV/
 
 # IDEs
 .vscode
+ontodocs/ontospy/*
